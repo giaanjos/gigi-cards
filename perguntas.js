@@ -1,13 +1,13 @@
 criaCartao(
-    'Arte',
-    'qual a cor que forma se misturar amarelo e azul??'
-    'a cor verde!!'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'conhecimento geral',
-    'que nome se dá para o coletivo de lobos??',
-    'alcateia!!'
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(

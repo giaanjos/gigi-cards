@@ -6,18 +6,18 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'O Vaticano é o menor país do mundo. Qual é o segundo menor??',
+    'O país chamado Mônaco'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'O gametófito é responsável pela produção de:',
+    'Gametas!!'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz cavalo em Inglês?',
+    'Cavalo em ingles é Horse'
 )

@@ -1,13 +1,13 @@
 criaCartao(
     'Arte',
-    'Que cor forma ao misturar azul e amarelo??',
-    'A cor verde!!'
+    'Quantos dias tem 1 ano??',
+    '365 dias!!'
 )
 
 criaCartao(
     'Geografia',
     'O Vaticano é o menor país do mundo. Qual é o segundo menor??',
-    'O país chamado Mônaco'
+    'O país chamado Mônaco!!'
 )
 
 criaCartao(
@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz cavalo em Inglês?',
-    'Cavalo em ingles é Horse'
+    'Cavalo em inglês é Horse!!'
 )
